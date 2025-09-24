@@ -36,7 +36,7 @@ Setting up full path to directory with labelled images
 # r'C:\Users\my_name\Downloads\video-to-annotate'
 # or:
 # 'C:\\Users\\my_name\\Downloads\\video-to-annotate'
-full_path_to_images = '/home/my_name/Downloads/video-to-annotate'
+full_path_to_images = 'Custom_data'
 
 """
 End of:
